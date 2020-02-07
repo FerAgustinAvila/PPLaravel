@@ -11,8 +11,12 @@ Haciendo el uso de las plantillas que provee Laravel, de extension .blade.php y 
 ![Blog](Vistas/blog.jpg)
 
 ### About
+Dado el largo de la página y para demostrar el uso del Menu al top, son dos fotos 
+
+#### About 1
 ![About](Vistas/about1.jpg)
 
+#### About 2
 ![About](Vistas/about2.jpg)
 
 ### Contact
